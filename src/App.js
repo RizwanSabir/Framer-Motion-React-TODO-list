@@ -1,12 +1,13 @@
 
 import './App.css';
-import { Mode } from './Components/Mode';
+import Test from './Components/Box/TODO';
 
 function App() {
   return (
     <>
     <div className='dark:bg-black'>
-    <Mode/>
+
+<Test/> 
     </div>
     
     </>

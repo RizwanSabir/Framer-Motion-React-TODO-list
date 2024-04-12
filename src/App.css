@@ -1,32 +1,12 @@
-
-
-div.active{
-  background-color: bisque;
-
-}
-
-div .g{
-  background-color: black;
-}
-
-
-.element{
-  border: 2px solid red;
-  width: 100%;
-
-  aspect-ratio: 16/8;
-  
+.Side{
  
-  background-image: url(../public/Images/p1.jpg);
-     
-    
-     background-size: cover;
-     background-repeat: no-repeat;
-     
-  
+ 
 }
 
-.imgg{
-  width: 300px;
-  height: 200px;
+.Side:hover .Side2{
+  display: block;
 }
+
+
+
+
